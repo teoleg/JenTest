@@ -55,7 +55,7 @@
            <archive>
              <manifest>
                <!-- Jar file entry point -->
-               <mainClass>com.teoleg.testapp</mainClass>
+               <mainClass>com.teoleg.testapp.main</mainClass>
              </manifest>
             </archive>
            </configuration>
