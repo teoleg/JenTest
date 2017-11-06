@@ -10,7 +10,7 @@ public class TestprintOne {
 		
 		testapp App = new testapp();
 
-		Assert.assertEquals(App.printOne(), "1");
+		Assert.assertEquals(App.printOne(), "0");
 
 	}
 
